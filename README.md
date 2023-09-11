@@ -16,5 +16,7 @@ This is a simple application web page. Users can input a city name, click a sear
  - Built with JavaScript and utilizes the OpenWeatherMap API.
 
 
-![Logo](Screenshot%202023-09-11%20161629.png)
+# Screenshot
 
+
+![Screenshot 2023-09-11 161629](https://github.com/manishjhacse/weather/assets/123859854/5a6932dc-7894-4dc7-b7c1-f6accec68809)
